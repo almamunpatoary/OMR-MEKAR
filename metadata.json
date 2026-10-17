@@ -1,0 +1,6 @@
+{
+  "name": "OMR Sheet Generator BD - ওএমআর শিট জেনারেটর",
+  "description": "বাংলাদেশ শিক্ষা বোর্ড ও মাদ্রাসা শিক্ষা বোর্ডের হুবহু আসল ওএমআর উত্তরপত্র কভার শিট এবং এমসিকিউ শিট ১ ক্লিকে তৈরি ও প্রিন্ট করার সহজ সফটওয়্যার।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
